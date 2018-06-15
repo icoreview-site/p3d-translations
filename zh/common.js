@@ -40,19 +40,19 @@
 					"spend": "花多少以太坊",
 					"approx": "大概 {{amount}} P3D 代币。",
 					"invalid": "请输入合格的数值。",
-					"empty": "请在上述输入数值，可显示Type a number above to instantly see price estimations.",
-					"button": "Purchase",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
+					"empty": "请在上述输入数值，可显示价格估算。",
+					"button": "购买",
+					"hint": "1). 您输入的 GAS 价格越高， 区块链确认的越快。"
 				},
 				"reinvest": {
-					"title": "Reinvest Gauntlet Rewards",
-					"button": "Reinvest!"
+					"title": "把股利再投进去",
+					"button": "再投进去!"
 				},
 				"recent": {
-					"title": "Recent buy orders",
-					"date": "Date.",
-					"tx": "Tx.",
-					"address": "Address"
+					"title": "最近的买单",
+					"date": "日期。",
+					"tx": "区块链证明",
+					"address": "地址"
 				}
 			}
 		},

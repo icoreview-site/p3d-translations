@@ -16,11 +16,11 @@
 		"explorer": "探索系统"
 	},
 	"notifications": {
-		"loading": "...",
-		"cancelled": "Transaction was cancelled by the user.",
-		"error": "An error occured",
-		"withdrawalSubmitted": "Withdrawal request has been transmitted to the blockchain. Awaiting confirmation..", 
-		"sellSubmitted": "Sell order has been transmitted to the blockchain. Awaiting confirmation..",
+		"loading": "装载。。。",
+		"cancelled": "交易被用户取消。",
+		"error": "发生故障",
+		"withdrawalSubmitted": "取款请求已传送到区块链。 等待确认。。。", 
+		"sellSubmitted": "卖单已经传送到区块链。 等待确认。。。",
 		"sellConfirmed": "Your P3D token sell order has been confirmed by the blockchain! You succesfully sold {{tokens}} P3D tokens for {{eth}} ETH.",
 		"sellExternal": "Someone else just sold {{tokens}} P3D tokens for {{eth}} ETH.",
 		"buySubmitted": "Buy order has been transmitted to the blockchain. Awaiting confirmation..",

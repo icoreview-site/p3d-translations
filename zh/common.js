@@ -21,14 +21,14 @@
 		"error": "发生故障",
 		"withdrawalSubmitted": "取款请求已传送到区块链。 等待确认。。。", 
 		"sellSubmitted": "卖单已经传送到区块链。 等待确认。。。",
-		"sellConfirmed": "您的 P3D 代币卖单已经被区块链确认了！ 你成功卖出 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
-		"sellExternal": "有人刚成功卖了 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
+		"sellConfirmed": "您的 P3D代币卖单已经被区块链确认了！ 你成功卖出 {{tokens}} P3D代币，回收了 {{eth}} ETH。",
+		"sellExternal": "有人刚成功卖了 {{tokens}} P3D代币，回收了 {{eth}} ETH。",
 		"buySubmitted": "买单已经传送到区块链。 等待确认。。。",
-		"buyConfirmed": "您的 P3D 代币买单已经被区块链确认了！ 你成功卖出 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
-		"buyExternal": "有人刚成功卖了 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
-		"transferSubmitted": "您的 P3D 代币转让已经传送到区块链。 等待确认。。。",
-		"transferConfirmed": "您的 P3D 代币转让已经被区块链确认了！ 你成功卖出 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
-		"transferExternal": "有人刚成转让了 {{tokens}} P3D 代币，回收了 {{eth}} ETH。"
+		"buyConfirmed": "您的 P3D代币买单已经被区块链确认了！ 你成功卖出 {{tokens}} P3D代币，回收了 {{eth}} ETH。",
+		"buyExternal": "有人刚成功卖了 {{tokens}} P3D代币，回收了 {{eth}} ETH。",
+		"transferSubmitted": "您的 P3D代币转让已经传送到区块链。 等待确认。。。",
+		"transferConfirmed": "您的 P3D代币转让已经被区块链确认了！ 你成功卖出 {{tokens}} P3D代币，回收了 {{eth}} ETH。",
+		"transferExternal": "有人刚成转让了 {{tokens}} P3D代币，回收了 {{eth}} ETH。"
 	},
 	"footer": "这是一款娱乐产品，而不是投资产品。您感到它的乐趣吗？",
 	"pages": {
@@ -36,9 +36,9 @@
 			"title": "购买代币",
 			"item": {
 				"buy": {
-					"title": "购买 P3D 代币",
+					"title": "购买 P3D代币",
 					"spend": "花多少以太坊",
-					"approx": "大概 {{amount}} P3D 代币。",
+					"approx": "大概 {{amount}} P3D代币。",
 					"invalid": "请输入合格的数值。",
 					"empty": "请在上述输入数值，可显示价格估算。",
 					"button": "购买",
@@ -57,18 +57,18 @@
 			}
 		},
 		"sell": {
-			"title": "Sell tokens",
+			"title": "卖掉代币",
 			"item": {
 				"sell": {
-					"title": "Sell P3D tokens",
-					"spend": "Tokens to sell",
-					"approx": "Approximately {{amount}} ETH.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
-					"button": "Sell!",
-					"all": "All",
-					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction.",
-					"warning": "Are you sure you want to sell tokens? Selling is admitting to yourself, and everyone else that your hands are no longer strong enough to play. The 10% fee on your sale will definitely appreciated by other holders though.",
+					"title": "卖掉 P3D代币",
+					"spend": "卖多少 P3D代币",
+					"approx": "大概 {{amount}} ETH.",
+					"invalid": "请输入合格的数值。",
+					"empty": "请在上述输入数值，可显示价格估算。",
+					"button": "卖掉!",
+					"all": "全部",
+					"hint": "1). 您输入的 GAS 价格越高， 区块链确认的越快。",
+					"warning": "您肯定要卖掉吗？卖掉是等于您跟大家承认您没有支持力，并且宣布认输。反正，那百分之十的税率将会让其他 P3D拥有者向您非常感谢。",
 					"confirm": "YES, I HAVE WEAK HANDS.",
 					"deny": "NO, I'VE FOUND NEW STRENGTH."
 				},

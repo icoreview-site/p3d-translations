@@ -26,21 +26,21 @@
 		"buySubmitted": "买单已经传送到区块链。 等待确认。。。",
 		"buyConfirmed": "您的 P3D 代币买单已经被区块链确认了！ 你成功卖出 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
 		"buyExternal": "有人刚成功卖了 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
-		"transferSubmitted": "您的. Awaiting confirmation..",
-		"transferConfirmed": "Your P3D token transfer order has been confirmed by the blockchain! You succesfully transfered {{tokens}} P3D tokens.",
-		"transferExternal": "Someone else just transferred {{tokens}} P3D tokens."
+		"transferSubmitted": "您的 P3D 代币转让已经传送到区块链。 等待确认。。。",
+		"transferConfirmed": "您的 P3D 代币转让已经被区块链确认了！ 你成功卖出 {{tokens}} P3D 代币，回收了 {{eth}} ETH。",
+		"transferExternal": "有人刚成转让了 {{tokens}} P3D 代币，回收了 {{eth}} ETH。"
 	},
-	"footer": "This is an entertainment platform, not an investment platform, are you not entertained?",
+	"footer": "这是一款娱乐产品，而不是投资产品。您感到它的乐趣吗？",
 	"pages": {
 		"purchase": {
-			"title": "Purchase tokens",
+			"title": "购买代币",
 			"item": {
 				"buy": {
-					"title": "Buy P3D tokens",
-					"spend": "Ethereum to spend",
-					"approx": "Approximately {{amount}} P3D tokens.",
-					"invalid": "Type a valid number.",
-					"empty": "Type a number above to instantly see price estimations.",
+					"title": "购买 P3D 代币",
+					"spend": "花多少以太坊",
+					"approx": "大概 {{amount}} P3D 代币。",
+					"invalid": "请输入合格的数值。",
+					"empty": "请在上述输入数值，可显示Type a number above to instantly see price estimations.",
 					"button": "Purchase",
 					"hint": "1). The higher the gas price you offer, the quicker the ETH miners will pick up and confirm your transaction."
 				},

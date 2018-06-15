@@ -1,22 +1,22 @@
 {
 	"masthead": {
-		"holdings": "Holdings",
-		"balance": "{{balance}} ETH in contract"
+		"holdings": "投资组合",
+		"balance": "{{balance}} 合约里的总共以太坊"
 	},
 	"menu": {
 		"exchange" : [
-			"Exchange",
-			"Sell & Withdraw",
-			"Transfer",
-			"Holdings"
+			"交易",
+			"卖掉和取款",
+			"转让",
+			"投资组合"
 		],
-		"staking": "Staking & Masternode",
-		"news": "News",
-		"chat": "Chat",
-		"explorer": "Explorer"
+		"staking": "存款和推荐",
+		"news": "新闻",
+		"chat": "聊天",
+		"explorer": "探索系统"
 	},
 	"notifications": {
-		"loading": "Loading...",
+		"loading": "...",
 		"cancelled": "Transaction was cancelled by the user.",
 		"error": "An error occured",
 		"withdrawalSubmitted": "Withdrawal request has been transmitted to the blockchain. Awaiting confirmation..", 
